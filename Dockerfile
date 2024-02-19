@@ -15,11 +15,11 @@ ENV APP_DEBUG false
 ENV APP_KEY base64:nj3r3z+7xa7BeQ+WUA8OdUTK0H4U4clRoQUIIBgrr6Y=
 ENV LOG_CHANNEL stderr
 ENV DB_CONNECTION pgsql
-ENV DB_HOST dpg-cn9enh2cn0vc738rqkp0-a.singapore-postgres.render.com
+ENV DB_HOST dpg-cn9fb8uv3ddc73d6nptg-a.singapore-postgres.render.com
 ENV DB_PORT 5432
-ENV DB_DATABASE school4
+ENV DB_DATABASE school
 ENV DB_USERNAME root
-ENV DB_PASSWORD BcAjS4pCXaYIFSgeVoBZnHA4xGckegz4
+ENV DB_PASSWORD Dejnw4XSWTl4rOOGQKx2EknqrF7N8xYJ
 ENV MYSQL_ATTR_SSL_CA cacert-2023-12-12.pem
 
 # Allow composer to run as root
